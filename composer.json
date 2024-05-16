@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "alganet/books-and-stores",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "A basics Laravel framework application for books and stores.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
